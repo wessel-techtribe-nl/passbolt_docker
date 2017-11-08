@@ -40,6 +40,7 @@ RUN apk add --no-cache $BASE_PHP_DEPS \
       sed \
       tar \
       bash \
+      coreutils \
       curl \
       nginx \
       gpgme \
